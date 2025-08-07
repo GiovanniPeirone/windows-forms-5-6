@@ -1,0 +1,17 @@
+C:\Users\Proa\Desktop\windows-forms-8-6\FormulariodeUsuarioyContraseña\FormulariodeUsuarioyContraseña\bin\Debug\net8.0-windows\FormulariodeUsuarioyContraseña.exe
+C:\Users\Proa\Desktop\windows-forms-8-6\FormulariodeUsuarioyContraseña\FormulariodeUsuarioyContraseña\bin\Debug\net8.0-windows\FormulariodeUsuarioyContraseña.deps.json
+C:\Users\Proa\Desktop\windows-forms-8-6\FormulariodeUsuarioyContraseña\FormulariodeUsuarioyContraseña\bin\Debug\net8.0-windows\FormulariodeUsuarioyContraseña.runtimeconfig.json
+C:\Users\Proa\Desktop\windows-forms-8-6\FormulariodeUsuarioyContraseña\FormulariodeUsuarioyContraseña\bin\Debug\net8.0-windows\FormulariodeUsuarioyContraseña.dll
+C:\Users\Proa\Desktop\windows-forms-8-6\FormulariodeUsuarioyContraseña\FormulariodeUsuarioyContraseña\bin\Debug\net8.0-windows\FormulariodeUsuarioyContraseña.pdb
+C:\Users\Proa\Desktop\windows-forms-8-6\FormulariodeUsuarioyContraseña\FormulariodeUsuarioyContraseña\obj\Debug\net8.0-windows\FormulariodeUsuarioyContraseña.Form1.resources
+C:\Users\Proa\Desktop\windows-forms-8-6\FormulariodeUsuarioyContraseña\FormulariodeUsuarioyContraseña\obj\Debug\net8.0-windows\FormulariodeUsuarioyContraseña.csproj.GenerateResource.cache
+C:\Users\Proa\Desktop\windows-forms-8-6\FormulariodeUsuarioyContraseña\FormulariodeUsuarioyContraseña\obj\Debug\net8.0-windows\FormulariodeUsuarioyContraseña.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Proa\Desktop\windows-forms-8-6\FormulariodeUsuarioyContraseña\FormulariodeUsuarioyContraseña\obj\Debug\net8.0-windows\FormulariodeUsuarioyContraseña.AssemblyInfoInputs.cache
+C:\Users\Proa\Desktop\windows-forms-8-6\FormulariodeUsuarioyContraseña\FormulariodeUsuarioyContraseña\obj\Debug\net8.0-windows\FormulariodeUsuarioyContraseña.AssemblyInfo.cs
+C:\Users\Proa\Desktop\windows-forms-8-6\FormulariodeUsuarioyContraseña\FormulariodeUsuarioyContraseña\obj\Debug\net8.0-windows\FormulariodeUsuarioyContraseña.csproj.CoreCompileInputs.cache
+C:\Users\Proa\Desktop\windows-forms-8-6\FormulariodeUsuarioyContraseña\FormulariodeUsuarioyContraseña\obj\Debug\net8.0-windows\FormulariodeUsuarioyContraseña.sourcelink.json
+C:\Users\Proa\Desktop\windows-forms-8-6\FormulariodeUsuarioyContraseña\FormulariodeUsuarioyContraseña\obj\Debug\net8.0-windows\FormulariodeUsuarioyContraseña.dll
+C:\Users\Proa\Desktop\windows-forms-8-6\FormulariodeUsuarioyContraseña\FormulariodeUsuarioyContraseña\obj\Debug\net8.0-windows\refint\FormulariodeUsuarioyContraseña.dll
+C:\Users\Proa\Desktop\windows-forms-8-6\FormulariodeUsuarioyContraseña\FormulariodeUsuarioyContraseña\obj\Debug\net8.0-windows\FormulariodeUsuarioyContraseña.pdb
+C:\Users\Proa\Desktop\windows-forms-8-6\FormulariodeUsuarioyContraseña\FormulariodeUsuarioyContraseña\obj\Debug\net8.0-windows\FormulariodeUsuarioyContraseña.genruntimeconfig.cache
+C:\Users\Proa\Desktop\windows-forms-8-6\FormulariodeUsuarioyContraseña\FormulariodeUsuarioyContraseña\obj\Debug\net8.0-windows\ref\FormulariodeUsuarioyContraseña.dll
