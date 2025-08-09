@@ -52,6 +52,7 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(149, 23);
             textBox1.TabIndex = 1;
+            textBox1.TextChanged += textBox1_TextChanged;
             // 
             // textBox2
             // 
@@ -60,7 +61,7 @@
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(149, 23);
             textBox2.TabIndex = 3;
-            textBox2.TextChanged += textBox2_TextChanged;
+            
             // 
             // label2
             // 
@@ -70,7 +71,6 @@
             label2.Size = new Size(47, 15);
             label2.TabIndex = 2;
             label2.Text = "Tiempo";
-            label2.Click += this.label2_Click;
             // 
             // button1
             // 
@@ -81,6 +81,7 @@
             button1.TabIndex = 4;
             button1.Text = "Calcular";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // textBox3
             // 

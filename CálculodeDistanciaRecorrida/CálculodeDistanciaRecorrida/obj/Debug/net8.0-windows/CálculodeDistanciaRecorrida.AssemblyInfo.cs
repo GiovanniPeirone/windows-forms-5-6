@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CálculodeDistanciaRecorrida")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfdebc9bbab8bb6ef55dc3ec7a9147a3b3240994")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8449c4f19791fa929c4f46cf4efe2f7ec6d8181b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CálculodeDistanciaRecorrida")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CálculodeDistanciaRecorrida")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Proa\\Desktop\\windows-forms-8-6\\CálculodeDistanciaRecorrida\\CálculodeDistanciaRecorrida\\CálculodeDistanciaRecorrida.csproj": {}
+    "C:\\Users\\GIovanni\\Documents\\GitHub\\windows-forms-8-6\\CálculodeDistanciaRecorrida\\CálculodeDistanciaRecorrida\\CálculodeDistanciaRecorrida.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Proa\\Desktop\\windows-forms-8-6\\CálculodeDistanciaRecorrida\\CálculodeDistanciaRecorrida\\CálculodeDistanciaRecorrida.csproj": {
+    "C:\\Users\\GIovanni\\Documents\\GitHub\\windows-forms-8-6\\CálculodeDistanciaRecorrida\\CálculodeDistanciaRecorrida\\CálculodeDistanciaRecorrida.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Proa\\Desktop\\windows-forms-8-6\\CálculodeDistanciaRecorrida\\CálculodeDistanciaRecorrida\\CálculodeDistanciaRecorrida.csproj",
+        "projectUniqueName": "C:\\Users\\GIovanni\\Documents\\GitHub\\windows-forms-8-6\\CálculodeDistanciaRecorrida\\CálculodeDistanciaRecorrida\\CálculodeDistanciaRecorrida.csproj",
         "projectName": "CálculodeDistanciaRecorrida",
-        "projectPath": "C:\\Users\\Proa\\Desktop\\windows-forms-8-6\\CálculodeDistanciaRecorrida\\CálculodeDistanciaRecorrida\\CálculodeDistanciaRecorrida.csproj",
-        "packagesPath": "C:\\Users\\Proa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Proa\\Desktop\\windows-forms-8-6\\CálculodeDistanciaRecorrida\\CálculodeDistanciaRecorrida\\obj\\",
+        "projectPath": "C:\\Users\\GIovanni\\Documents\\GitHub\\windows-forms-8-6\\CálculodeDistanciaRecorrida\\CálculodeDistanciaRecorrida\\CálculodeDistanciaRecorrida.csproj",
+        "packagesPath": "C:\\Users\\GIovanni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GIovanni\\Documents\\GitHub\\windows-forms-8-6\\CálculodeDistanciaRecorrida\\CálculodeDistanciaRecorrida\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Proa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\GIovanni\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
