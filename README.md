@@ -1,2 +1,2 @@
-# windows-forms-8-6
+# windows-forms-5-6
 exersices
